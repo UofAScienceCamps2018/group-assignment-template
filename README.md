@@ -11,7 +11,7 @@
 
 
 ### Code formatting
-An example has been provided in this repository, and is linked [here](https://github.com/UofAScienceCamps2018/group-assignment-template/blob/master/group-template.py)
+An example has been provided in this repository, and is linked [here](https://github.com/UofAScienceCamps2018/group-assignment-template/blob/master/group_template.py)
 
 ```python
 #!/usr/bin/env python
